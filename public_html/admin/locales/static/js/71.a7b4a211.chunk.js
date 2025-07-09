@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdwit_admin_panel_web=self.webpackChunkdwit_admin_panel_web||[]).push([[71],{6071:(e,n,a)=>{a.r(n),a.d(n,{default:()=>r});var s=a(5043),t=a(3216),c=a(9314),d=a(579);const r=function(){const e=(0,t.Zp)();return(0,s.useEffect)((()=>{e("/dashboard",{replace:!0})}),[e]),(0,d.jsx)(d.Fragment,{children:(0,d.jsx)(c.A,{})})}}}]);
+//# sourceMappingURL=71.a7b4a211.chunk.js.map

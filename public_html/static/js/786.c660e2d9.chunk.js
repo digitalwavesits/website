@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdwit=self.webpackChunkdwit||[]).push([[786],{70405:(e,s,t)=>{t.r(s),t.d(s,{default:()=>d});var i=t(65043),n=t(27049),c=t(70579);const d=()=>((0,i.useEffect)((()=>{window.scrollTo(0,0)}),[]),(0,c.jsx)(c.Fragment,{children:(0,c.jsx)(n.A,{title:"Terms & Conditions"})}))}}]);
+//# sourceMappingURL=786.c660e2d9.chunk.js.map

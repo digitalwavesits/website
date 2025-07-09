@@ -1,0 +1,321 @@
+{
+  "form": {
+    "email": {
+      "label": "Email ID",
+      "placeholder": "Enter Email",
+      "error": {
+        "Email is required": "Email is required",
+        "Must be a valid email address": "Must be a valid email address"
+      }
+    },
+    "password": {
+      "label": "Password",
+      "placeholder": "Enter Password here",
+      "error": {
+        "Password is required": "Password is required",
+        "Password must be min 8 characters, and have 1 Special Character, 1 Uppercase, 1 Number and 1 Lowercase": "Password must be min 8 characters, and have 1 Special Character, 1 Uppercase, 1 Number and 1 Lowercase"
+      }
+    },
+    "fullName": {
+      "label": "Full Name",
+      "placeholder": "Enter Your Name",
+      "error": {
+        "Full name is required": "Full name is required"
+      }
+    },
+    "firstName": {
+      "label": "First Name",
+      "placeholder": "Enter First Name",
+      "error": {
+        "First name is required": "First name is required"
+      }
+    },
+    "middleName": {
+      "label": "Middle Name",
+      "placeholder": "Enter Middle Name",
+      "error": {
+        "Middle name is required": "Middle name is required"
+      }
+    },
+    "lastName": {
+      "label": "Last Name",
+      "placeholder": "Enter Last Name",
+      "error": {
+        "Last name is required": "Last name is required"
+      }
+    },
+    "dob": {
+      "label": "Date of Birth",
+      "error": {
+        "Date of Birth is required": "Date of Birth is required"
+      }
+    },
+    "acceptTC": {
+      "label": "Please Accept all ",
+      "error": {
+        "Please Accept all Terms & Conditions": "Please Accept all Terms & Conditions"
+      }
+    },
+    "businessName": {
+      "label": "Name of Business",
+      "placeholder": "Enter Business Name",
+      "error": {
+        "Name of Business is required": "Name of Business is required"
+      }
+    },
+    "phone": {
+      "label": "Phone Number",
+      "placeholder": "Phone Number",
+      "error": {
+        "Phone number is required": "Phone number is required",
+        "Must contain only numeric digits":"Must contain only numeric digits"
+      }
+    },
+    "referralCode": {
+      "label": "Referral Code (Optional)",
+      "placeholder": "Referral Code",
+      "error": {
+        "Phone number is required": "Referral Code is required"
+      }
+    },
+    "cityName": {
+      "label": "City Name",
+      "placeholder": "Enter City",
+      "error": {
+        "City Name is required": "City Name is required"
+      }
+    },
+    "country": {
+      "label": "Country",
+      "placeholder": "Enter Country",
+      "error": {
+        "Country is required": "Country is required"
+      }
+    },
+    "state": {
+      "label": "State",
+      "placeholder": "Enter State",
+      "error": {
+        "State is required": "State is required"
+      }
+    },
+    "fundAmount": {
+      "label": "Fund Wallet",
+      "placeholder": "Enter Amount ",
+      "error": {
+        "Relationship is required": "Fund Amount  is required"
+      }
+    },
+    "Gender": {
+      "label": "Gender",
+      "label1": "Male",
+      "label2": "Female",
+      "label3": "Other",
+      "error": {
+        "required": "required"
+      }
+    },
+    "Smoker": {
+      "label": "Smoker",
+      "label1": "Yes",
+      "label2": "No",
+      "error": {
+        "required": "required"
+      }
+    },
+    "isUserConsent": {
+      "label1": "I certify that I have the legal authority to create this account and engage on this site as Plan Administrator on behalf of the above stated business. I understand that creating this account, my first name and last name represent my electronic signature.",
+      "label2": "I accept these terms and the conditions of the community health plan as outlined in the accompanying document.",
+      "label3": "Display plan owner's name on this membership card.",
+      "error": {
+        "User Consent is required": "User Consent is required"
+      }
+    },
+    "isPreExistingCondition": {
+      "label1": "HIV/AIDS",
+      "label2": "Cancer",
+      "label3": "Diabetes",
+      "label4": "High Blood Pressure",
+      "label5": "None",
+      "error": {
+        "required": "required"
+      }
+    },
+    "profileImg": {
+      "label": "Upload Profile Image",
+      "label2": "Upload Image/Video file",
+      "label3": "(Max file size 3mb)",
+      "error": {
+        "Image is required": "Image is required"
+      }
+    },
+    "privacyDialogText": {
+      "value1": " By submitting this application form, I hereby affirm and declare that all information provided herein is complete, true, and accurate to the best of my knowledge and belief. I understand that this information is critical for the assessment and provision of health coverage under the community health plan, which is subject to the laws and regulations applicable within the designated service regions in Africa",
+      "value2": "I acknowledge that this health coverage is contingent upon the truthfulness of the information supplied, and any misrepresentation, omission, or falsification of information may result in denial of coverage, withdrawal of coverage at any point, or other legal actions as permitted under the governing laws",
+      "value3": " Example: If an applicant indicates 'No' to the question 'Is the beneficiary a smoker?'' but it is later discovered that the beneficiary has a history of smoking, particularly in the event of a cancer diagnosis linked to smoking habits, the community health plan may deny coverage for treatments related to such conditions.",
+      "value4": "Furthermore, I consent to the community health plan conducting necessary verifications and investigations to validate the information provided. If any information is found to be incorrect or misleading after coverage has been granted, I understand that the coverage may be retroactively denied or canceled, and any claims made may be subject to denial or recovery of costs incurred by the community health plan.",
+      "value5": "I grant full authorization to the community health plan administrators to request and obtain information pertinent to this application and the ongoing evaluation of the beneficiary's coverage eligibility. This may include, but is not limited to, medical records, prescription records, and other health-related information from any hospital, clinic, pharmacy, or other medical service provider.",
+      "value6": "I commit to promptly inform the community health plan of any changes in the beneficiary's health status or other relevant information that could impact coverage under the community health plan.",
+      "value7": "The undersigned acknowledges that they are completing this form on behalf of the named beneficiary who resides in Africa and that they have the authority to provide this information and consent to its use for the purposes of health coverage.",
+      "value8": "I accept these terms and the conditions of the community health plan as outlined in the accompanying document.",
+      "heading": "Declaration and Consent",
+      "error": {
+        "You must agree to the terms and privacy policy to continue.": "You must agree to the terms and privacy policy to continue."
+      }
+    },
+    "generalPractitioner": {
+      "label1": "General Practitioner(Primary Care Provider) - Covered amount FCFA 8,000",
+      "error": {
+        "required": "required"
+      }
+    },
+    "specialistCareProvider": {
+      "label1": "Specialist Care Provider - Covered Amount: FCFA 15,000",
+      "error": {
+        "required": "required"
+      }
+    },
+    "diagnosticLaboratoryService": {
+      "label1": "Diagnostic Laboratory Service - Covered Amount: FCFA 15,000",
+      "error": {
+        "required": "required"
+      }
+    },
+    "radiationTherapy": {
+      "label1": "Radiation Therapy - Covered Amount: FCFA 511,264",
+      "error": {
+        "required": "required"
+      }
+    },
+    "dialysis": {
+      "label1": "Covered Amount: FCFA 25,000",
+      "error": {
+        "required": "required"
+      }
+    },
+    "maternity": {
+      "label1": "Maternity (Labor and Delivery) - Covered Amount: FCFA 127,500",
+      "error": {
+        "required": "required"
+      }
+    },
+    "pharmacy": {
+      "label1": "Pharmacy - Covered Amount: FCFA 20,000",
+      "error": {
+        "required": "required"
+      }
+    },
+    "Allied": {
+      "label1": "Allied Health - Covered Amount: ------",
+      "error": {
+        "required": "required"
+      }
+    },
+    "Physiotherapy": {
+      "label1": "Physiotherapy - Covered Amount: FCFA 7,500",
+      "error": {
+        "required": "required"
+      }
+    },
+    "MentalHealthCounseling": {
+      "label1": "Mental Health Counseling - Covered Amount: FCFA 10,000",
+      "error": {
+        "required": "required"
+      }
+    },
+    "Chiropractor": {
+      "label1": "Chiropractor - Covered Amount: -------",
+      "error": {
+        "required": "required"
+      }
+    },
+     "nameOnCard": {
+      "label": "Name on card",
+      "placeholder": "Enter Name on card",
+      "error": {
+        "Name on card is required": "Name on card is required"
+      }
+    },
+    "cardNumber": {
+      "label": "Card Number",
+      "placeholder": "Enter Card Number",
+      "error": {
+        "Card number is required": "Card number is required"
+      }
+    }, 
+     "cvv": {
+      "label": "CVV Number",
+      "placeholder": "Enter Cvv",
+      "error": {
+        "Cvv is required": "Cvv is required"
+      }
+    }
+  },
+
+
+  "Sign In": "Sign In",
+  "Sign Up": "Sign Up",
+  "Enter your details to continue.": "Enter your details to continue.",
+  "passwordTextfield": {
+    "label": "Password",
+    "placeholder": "Enter Password here"
+  },
+  "Forgot Password?": "Forgot Password?",
+  "Don't have an account?": "Don't have an account?",
+  "Create Account": "Create Account",
+  "Enter necessary details to create your account.": "Enter necessary details to create your account.",
+  "Continue": "Continue",
+  "Already have an account?": "Already have an account?",
+  "Member Name": "Member Name",
+  "Registration Number": "Registration Number",
+  "Coverage Plan Status": "Coverage Plan Status",
+  "Action": "Action",
+  "Add Member": "Add Member",
+  "Submit": "Submit",
+  "View Details": "View Details",
+  "General Practitioner(Primary Care Provider) - Covered amount FCFA 8,000": "General Practitioner(Primary Care Provider) - Covered amount FCFA 8,000",
+  "If the right option is not selected and person is diagnosed with lung cancer as a result of tobacco, their illness shall not be covered": "If the right option is not selected and person is diagnosed with lung cancer as a result of tobacco, their illness shall not be covered",
+  "Kindly enter necessary details to create your account.": "Kindly enter necessary details to create your account.",
+  "Personal Information": "Personal Information",
+  "Contact Information": "Contact Information",
+  "Pre-existing Condition": "Pre-existing Condition",
+  "Interested Coverage Plan": "Interested Coverage Plan",
+  "Change Plan Payment Frequency": "Change Plan Payment Frequency",
+  "For each coverage option selected, we display different details and different cost": "For each coverage option selected, we display different details and different cost",
+  "Welcome": "Welcome",
+  "My Care Portfolio": "My Care Portfolio",
+  "Providers": "Providers",
+  "My Earnings": "My Earnings",
+  "My Profile": "My Profile",
+  "For each coverage option selected, we display different details and different cost.": "For each coverage option selected, we display different details and different cost.",
+  "< 18yo":"< 18yo",
+  "18-44 yo":"18-44 yo",
+  "> 45yo":"> 45yo",
+  "Monthly":"Monthly",
+  "Yearly": "Yearly",
+  "Basic Plan":"Basic Plan",
+  "Specialist Plan":"Specialist Plan",
+  "BYOP (Build your own plan)":"BYOP (Build your own plan)",
+  "Basic Plan Details":"Basic Plan Details",
+  "Month":"Month",
+  "Main Service":"Main Service",
+  "Number of Visits":"Number of Visits",
+  "The first visit of the following screening exams": "The first visit of the following screening exams",
+  "Colonoscopy, Endoscopy, PSA, Pap Smear and Mammography are covered 100% while Pelvic exams is covered at 50%, all courtesy of Famyll, Inc. Should you need more than one of these screening exams, we recommend you use our Build Your Own Plan (BYOP) option instead":"Colonoscopy, Endoscopy, PSA, Pap Smear and Mammography are covered 100% while Pelvic exams is covered at 50%, all courtesy of Famyll, Inc. Should you need more than one of these screening exams, we recommend you use our Build Your Own Plan (BYOP) option instead.",
+  "Add More Member":"Add More Member",
+  "Specialist Plan Details":"Specialist Plan Details",
+  "Congratulations":"Congratulations",
+  "You have successfully secured the health of your family. Their coverage will begin after a 6 months mandatory wait period, that is on xx/xx/xx (enter exact day)":"You have successfully secured the health of your family. Their coverage will begin after a 6 months mandatory wait period, that is on xx/xx/xx (enter exact day)",
+  "Are you sure?":"Are you sure?",
+  "Are you sure you want to continue with this provider?":"Are you sure you want to continue with this provider?",
+  "Continue Your Payment With Card":"Continue Your Payment With Card",
+  "Fill up your cards": "Fill up your cards",
+  "Added Card":"Added Card",
+  "Add New Card":"Add New Card",
+  "Complete Payment":"Complete Payment",
+  "Selected Coverage Plan":"Selected Coverage Plan",
+  "Coverage Plan Fee":"Coverage Plan Fee",
+  "Plan Service Fee":"Plan Service Fee",
+  "Membership Fee":"Membership Fee",
+  "Membership Service Fee":"Membership Service Fee"
+}

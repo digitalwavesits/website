@@ -1,0 +1,17 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+
+    # Redirect www to non-www
+    RewriteCond %{HTTP_HOST} ^www.dw-its.com [NC]
+    RewriteRule ^(.*)$ http://dw-its.com/$1 [L,R=301]
+
+    # SPA routing rules
+    RewriteBase /
+    RewriteRule ^index\.html$ - [L]
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-l
+    RewriteRule . /index.html [L]
+  </IfModule>
+  

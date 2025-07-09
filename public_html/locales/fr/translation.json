@@ -1,0 +1,233 @@
+{
+  "form": {
+    "email": {
+      "label": "__TBT__",
+      "placeholder": "__TBT__",
+      "error": {
+        "Email is required": "__TBT__",
+        "Must be a valid email address": "__TBT__"
+      }
+    },
+    "password": {
+      "label": "__TBT__",
+      "placeholder": "__TBT__",
+      "error": {
+        "Password is required": "__TBT__",
+        "Password must be min 8 characters, and have 1 Special Character, 1 Uppercase, 1 Number and 1 Lowercase": "__TBT__"
+      }
+    },
+    "firstName": {
+      "label": "__TBT__",
+      "placeholder": "__TBT__",
+      "error": {
+        "First name is required": "__TBT__"
+      }
+    },
+    "middleName": {
+      "label": "__TBT__",
+      "placeholder": "__TBT__",
+      "error": {
+        "Middle name is required": "__TBT__"
+      }
+    },
+    "lastName": {
+      "label": "__TBT__",
+      "placeholder": "__TBT__",
+      "error": {
+        "Last name is required": "__TBT__"
+      }
+    },
+    "dob": {
+      "label":  "__TBT__",
+      "error": {
+        "Date of Birth is required": "__TBT__"
+      }
+    },
+    "profileImg": {
+      "label":"__TBT__",
+      "label2": "__TBT__",
+      "label3": "__TBT__",
+      "error": {
+        "Image is required": "__TBT__"
+    }},
+    "isBusiness": {
+      "label": "__TBT__"
+    },
+    "businessName": {
+      "label": "__TBT__",
+      "placeholder": "__TBT__",
+      "error": {
+        "Name of Business is required": "__TBT__"
+      }
+    },
+    "phone": {
+      "label": "__TBT__",
+      "placeholder": "__TBT__",
+      "error": {
+        "Phone number is required": "__TBT__"
+      }
+    },
+    "cityName": {
+      "label": "__TBT__",
+      "placeholder": "__TBT__",
+      "error": {
+        "City Name is required": "__TBT__"
+      }
+    },
+    "country": {
+      "label": "__TBT__",
+      "placeholder": "__TBT__",
+      "error": {
+        "Country is required": "__TBT__"
+      }
+    },
+    "state": {
+      "label": "__TBT__",
+      "placeholder": "__TBT__",
+      "error": {
+        "State is required": "__TBT__"
+      }
+    },
+    "relationship": {
+      "label": "__TBT__",
+      "placeholder": "__TBT__",
+      "error": {
+        "Relationship is required":  "__TBT__"
+      }
+    },
+    "Gender": {
+      "label":  "__TBT__",
+      "label1": "__TBT__",
+      "label2":  "__TBT__",
+      "label3": "__TBT__",
+      "error": {
+        "required":  "__TBT__"
+      }
+    },
+    "Smoker": {
+      "label":  "__TBT__",
+      "label1":  "__TBT__",
+      "label2":  "__TBT__",
+      "error": {
+        "required":  "__TBT__"
+      }
+    },
+    "isUserConsent": {
+      "label1": "__TBT__",
+      "label2": "__TBT__",
+      "label3": "__TBT__",
+      "error": {
+        "User Consent is required": "__TBT__"
+      }
+    },
+    "isPreExistingCondition":{
+      "label1": "__TBT__",
+      "label2":"__TBT__",
+      "label3":"__TBT__",
+      "label4": "__TBT__",
+      "label5": "__TBT__",
+      "error": {
+        "Condition is required": "__TBT__"
+      }
+    },
+    "privacyDialogText": {
+      "value1": "__TBT__",
+      "value2": "__TBT__",
+      "value3": "__TBT__",
+      "value4": "__TBT__",
+      "value5": "__TBT__",
+      "value6": "__TBT__",
+      "value7": "__TBT__",
+      "value8": "__TBT__",
+      "heading": "__TBT__",
+      "error": {
+        "You must agree to the terms and privacy policy to continue.": "__TBT__"
+      }
+    },
+    "nameOnCard": {
+      "label": "__TBT__",
+      "placeholder": "__TBT__",
+      "error": {
+        "Name on card is required": "__TBT__"
+      }
+    },
+    "cardNumber": {
+      "label": "__TBT__",
+      "placeholder": "__TBT__",
+      "error": {
+        "Card number is required": "__TBT__"
+      }
+    }, 
+     "cvv": {
+      "label": "__TBT__",
+      "placeholder": "__TBT__",
+      "error": {
+        "Cvv is required": "__TBT__"
+      }
+    }
+  },
+  "Sign In": "__TBT__",
+  "Sign Up": "__TBT__",
+  "Enter your details to continue.": "__TBT__",
+  "passwordTextfield": {
+    "label": "__TBT__",
+    "placeholder": "__TBT__"
+  },
+  "Forgot Password?": "__TBT__",
+  "Don't have an account?": "__TBT__",
+  "Create Account": "__TBT__",
+  "Enter necessary details to create your account.": "__TBT__",
+  "Continue": "__TBT__",
+  "Already have an account?": "__TBT__",
+  "Member Name":"__TBT__",
+  "Registration Number":"__TBT__",
+  "Coverage Plan Status":"__TBT__",
+  "Action":"__TBT__",
+  "Add Member":"__TBT__",
+  "Submit":"__TBT__",
+  "View Details":"__TBT__",
+  "If the right option is not selected and person is diagnosed with lung cancer as a result of tobacco, their illness shall not be covered":"__TBT__",
+  "Kindly enter necessary details to create your account.":"__TBT__",
+  "Personal Information":"__TBT__",
+  "Contact Information":"__TBT__",
+  "Pre-existing Condition":"__TBT__",
+  "Interested Coverage Plan":"__TBT__",
+  "Change Plan Payment Frequency":"__TBT__",
+  "For each coverage option selected, we display different details and different cost":"__TBT__",
+  "Welcome":"__TBT__",
+  "My Care Portfolio":"__TBT__",
+  "Providers":"__TBT__",
+  "My Earnings":"__TBT__",
+  "My Profile":"__TBT__",
+  "For each coverage option selected, we display different details and different cost.":"__TBT__",
+  "< 18yo":"__TBT__",
+  "18-44 yo":"__TBT__",
+  "> 45yo":"__TBT__",
+  "Monthly":"__TBT__",
+  "Yearly": "__TBT__",
+  "Basic Plan": "__TBT__",
+  "Specialist Plan": "__TBT__",
+  "BYOP (Build your own plan)": "__TBT__",
+  "Basic Plan Details":"__TBT__",
+  "Month":"__TBT__",
+  "Main Service":"__TBT__",
+  "Number of Visits":"__TBT__",
+  "The first visit of the following screening exams":"__TBT__",
+  "Colonoscopy, Endoscopy, PSA, Pap Smear and Mammography are covered 100% while Pelvic exams is covered at 50%, all courtesy of Famyll, Inc. Should you need more than one of these screening exams, we recommend you use our Build Your Own Plan (BYOP) option instead" : "__TBT__",
+  "Add More Member":"__TBT__",
+  "Specialist Plan Details":"__TBT__",
+  "Congratulations":"__TBT__",
+  "You have successfully secured the health of your family. Their coverage will begin after a 6 months mandatory wait period, that is on xx/xx/xx (enter exact day)":"__TBT__",
+  "Are you sure?":"__TBT__",
+  "Are you sure you want to continue with this provider?":"__TBT__",
+  "Continue Your Payment With Card":"__TBT__",
+  "Fill up your cards": "__TBT__",
+  "Added Card":"__TBT__",
+  "Add New Card":"__TBT__",
+  "Complete Payment":"__TBT__",
+  "Selected Coverage Plan":"__TBT__",
+  "Coverage Plan Fee":"__TBT__",
+  "Plan Service Fee":"__TBT__",
+  "Membership Fee":"__TBT__",
+  "Membership Service Fee":"__TBT__"
+}
